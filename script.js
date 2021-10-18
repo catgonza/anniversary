@@ -6,23 +6,23 @@ function displayRandomImages()
      //address URL of the image  
      src: "4.png",  
      //size for the image to be display on webpage  
-     width: "280",  
-     height: "200"  
+     width: "680",  
+     height: "600"  
    },   
    {  
      src: "2.png",  
-     width: "320",  
-     height: "195"  
+     width: "680",  
+     height: "600"  
    },   
    {  
      src: "3.png",  
-     width: "320",  
-     height: "195"  
+     width: "680",  
+     height: "600"  
    },  
    {  
      src: "1.png",  
-     width: "350",  
-     height: "250"  
+     width: "680",  
+     height: "600"  
     } ];  
       
     //find the length of the array of images  
