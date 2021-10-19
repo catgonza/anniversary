@@ -1,3 +1,26 @@
 body {  
-    margin-top: 30px;  
+    margin: 100px 158px;
+    font-family: arial;
     }  
+
+button {
+    padding: 20px 24px;
+    background-image: linear-gradient(to bottom right, lavender, skyblue);
+    border-radius: 10px;
+    margin-bottom: 20px;
+    font-size: 22px;
+    letter-spacing: 1px;
+    position: absolute;
+}
+
+h2 {
+    font-family: arial;
+    letter-spacing: 1px;
+    color: cadetblue;
+    font-size: 45px;
+    text-align: center;
+}
+
+h4 {
+    font-size: 26px;
+}
