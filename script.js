@@ -7,122 +7,122 @@ function displayRandomImages()
      src: "4.png",  
      //size for the image to be display on webpage  
      width: "680",  
-     height: "600"  
+     height: "680"  
    },   
    {  
      src: "22.png",  
      width: "680",  
-     height: "600"  
+     height: "680"  
    },   
       {  
      src: "2.png",  
      width: "680",  
-     height: "600"  
+     height: "680"  
    }, 
       {  
      src: "10.png",  
      width: "680",  
-     height: "600"  
+     height: "680"  
    }, 
       {  
      src: "20.png",  
      width: "680",  
-     height: "600"  
+     height: "680"  
    }, 
       {  
      src: "17.png",  
      width: "680",  
-     height: "600"  
+     height: "680"  
    }, 
       {  
      src: "14.png",  
      width: "680",  
-     height: "600"  
+     height: "680"  
    }, 
       {  
      src: "6.png",  
      width: "680",  
-     height: "600"  
+     height: "680"  
    }, 
       {  
      src: "16.png",  
      width: "680",  
-     height: "600"  
+     height: "680"  
    }, 
       {  
      src: "12.png",  
      width: "680",  
-     height: "600"  
+     height: "680"  
    }, 
       {  
      src: "9.png",  
      width: "680",  
-     height: "600"  
+     height: "680"  
    }, 
       {  
      src: "21.png",  
      width: "680",  
-     height: "600"  
+     height: "680"  
    }, 
       {  
      src: "15.png",  
      width: "680",  
-     height: "600"  
+     height: "680"  
    }, 
       {  
      src: "11.png",  
      width: "680",  
-     height: "600"  
+     height: "680"  
    }, 
       {  
      src: "24.png",  
      width: "680",  
-     height: "600"  
+     height: "680"  
    }, 
       {  
      src: "18.png",  
      width: "680",  
-     height: "600"  
+     height: "680"  
    }, 
       {  
      src: "23.png",  
      width: "680",  
-     height: "600"  
+     height: "680"  
    }, 
       {  
      src: "5.png",  
      width: "680",  
-     height: "600"  
+     height: "680"  
    }, 
       {  
      src: "13.png",  
      width: "680",  
-     height: "600"  
+     height: "680"  
    }, 
       {  
      src: "8.png",  
      width: "680",  
-     height: "600"  
+     height: "680"  
    }, 
       {  
      src: "19.png",  
      width: "680",  
-     height: "600"  
+     height: "680"  
    }, 
       {  
      src: "7.png",  
      width: "680",  
-     height: "600"  
+     height: "680"  
    }, 
    {  
      src: "3.png",  
      width: "680",  
-     height: "600"  
+     height: "680"  
    },  
    {  
      src: "1.png",  
      width: "680",  
-     height: "600"  
+     height: "680"  
     } ];  
       
     //find the length of the array of images  
